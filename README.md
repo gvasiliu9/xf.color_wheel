@@ -1,4 +1,5 @@
 
+
 **Xamarin Forms Color Wheel Component**
 
 <a href="https://www.nuget.org/packages/Utmdev.Xf.Switch/" target="_blank"><img src="https://img.shields.io/nuget/v/Utmdev.Xf.Switch?style=for-the-badge"/></a>
@@ -8,6 +9,10 @@
 Namespace:
 
 	xmlns:utmdev="clr-namespace:Utmdev.Xf.Components;assembly=Utmdev.Xf.ColorWheel"
+	
+Enable touch traking for iOS Project, open AppDelegate -> FinishedLaunching() method and add the following line after LoadApplication(new App());:
+
+    var _ = new TouchTracking.Forms.iOS.TouchEffect();
                
 Component:
 
@@ -48,8 +53,7 @@ Handle release:
         wheelColor.TextColor = Color.FromHex(color);
         wheelColor.Text = color.ToUpper();
     });
-
-                    
+             
 
 **Demo**
 
