@@ -56,5 +56,4 @@ Handle release:
              
 
 **Demo**
-
 <img src="https://github.com/utmdev/xf.color_wheel/blob/master/Component/Demo/color_wheel.gif">
