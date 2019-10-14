@@ -2,7 +2,7 @@
 
 **Xamarin Forms Color Wheel Component**
 
-<a href="https://www.nuget.org/packages/Utmdev.Xf.Switch/" target="_blank"><img src="https://img.shields.io/nuget/v/Utmdev.Xf.Switch?style=for-the-badge"/></a>
+<a href="https://www.nuget.org/packages/Utmdev.Xf.ColorWheel/1.0.0" target="_blank"><img src="https://img.shields.io/nuget/v/Utmdev.Xf.ColorWheel?style=for-the-badge"/></a>
 
 **Usage**
 
