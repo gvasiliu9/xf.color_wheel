@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
-    <AssemblyName>Utmdev.Xf.Switch</AssemblyName>
+    <AssemblyName>Utmdev.Xf.ColorWheel</AssemblyName>
     <ReleaseVersion>1.0.0</ReleaseVersion>
     <SynchReleaseVersion>false</SynchReleaseVersion>
     <RootNamespace>Utmdev.Xf.Components</RootNamespace>

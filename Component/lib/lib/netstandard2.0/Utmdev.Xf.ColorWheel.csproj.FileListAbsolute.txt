@@ -1,0 +1,12 @@
+/Applications/Development/xf.color_wheel/Component/bin/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.deps.json
+/Applications/Development/xf.color_wheel/Component/bin/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.dll
+/Applications/Development/xf.color_wheel/Component/bin/Debug/netstandard2.0/ref/Utmdev.Xf.ColorWheel.dll
+/Applications/Development/xf.color_wheel/Component/bin/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.pdb
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Content/ColorWheel.xaml.g.cs
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.AssemblyInfoInputs.cache
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.AssemblyInfo.cs
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/XamlC.stamp
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.dll
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/ref/Utmdev.Xf.ColorWheel.dll
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.pdb
+/Applications/Development/xf.color_wheel/Component/obj/Debug/netstandard2.0/Utmdev.Xf.ColorWheel.csprojAssemblyReference.cache
