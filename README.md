@@ -56,5 +56,6 @@ Handle release:
              
 
 **Demo**
-
-<img src="https://github.com/utmdev/xf.color_wheel/blob/master/Component/Demo/color_wheel.gif">
+------------------------------------------------------------------------------------------------------------------------------
+<img style="margin:0 auto; display:inline; width:250px;" src="https://github.com/utmdev/xf.color_wheel/blob/master/Component/Demo/color_wheel.gif">
+------------------------------------------------------------------------------------------------------------------------------
