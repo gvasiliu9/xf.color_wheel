@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:tt="clr-namespace:TouchTracking.Forms;assembly=TouchTracking.Forms"
+             x:Class="Utmdev.Xf.Components.ColorWheel">
+
+    <ContentView.Content>
+
+        <AbsoluteLayout>
+
+            <AbsoluteLayout.Effects>
+
+                <tt:TouchEffect Capture="True"
+                                TouchAction="TouchEffect_TouchAction" />
+
+            </AbsoluteLayout.Effects>
+
+            <!--Color wheel-->
+            <skia:SKCanvasView x:Name="colorsCanvas"
+                               AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                               AbsoluteLayout.LayoutFlags="All"
+                               PaintSurface="ColorsCanvas_PaintSurface" />
+            <!--Picker-->
+            <skia:SKCanvasView x:Name="pickerCanvas"
+                               AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                               AbsoluteLayout.LayoutFlags="All" />
+        </AbsoluteLayout>
+
+    </ContentView.Content>
+
+</ContentView>

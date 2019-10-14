@@ -11,9 +11,18 @@ namespace Playground
         {
             InitializeComponent();
 
-            xfSwitch.TapCommand = new Command<bool>(async (isOn) =>
+            // Color changed command
+            xfColorWheel.ValueChangedCommand = new Command<string>((color) =>
             {
-                Debug.WriteLine(isOn);
+                wheelColor.TextColor = Color.FromHex(color);
+                wheelColor.Text = color.ToUpper();
+            });
+
+            // Released command
+            xfColorWheel.ReleasedCommand = new Command<string>((color) =>
+            {
+                wheelColor.TextColor = Color.FromHex(color);
+                wheelColor.Text = color.ToUpper();
             });
         }
     }
