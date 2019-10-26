@@ -4,7 +4,7 @@
 
 <a href="https://www.nuget.org/packages/Utmdev.Xf.ColorWheel/1.0.0" target="_blank"><img src="https://img.shields.io/nuget/v/Utmdev.Xf.ColorWheel?style=for-the-badge"/></a>
 
-**Usage**
+**Usage:**
 
 Namespace:
 
@@ -55,9 +55,8 @@ Handle release:
     });
              
 
-**Demo**
+**Demo:**
 
-------------------------------------------------------------------------------------------------------------------------------
-<div>
+<p align="center">
 	<img style="margin:0 auto; display:inline; width:250px;" src="https://github.com/utmdev/xf.color_wheel/blob/master/Component/Demo/color_wheel.gif">	
-</div>
+</p>
